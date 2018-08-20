@@ -1,0 +1,8 @@
+[package]
+name = "newsweb-rs"
+version = "0.1.0"
+authors = ["mildred"]
+
+[dependencies]
+hyper = "0.12"
+structopt = "0.2.10"
